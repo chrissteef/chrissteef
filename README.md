@@ -11,9 +11,7 @@ I build Web3 apps, staking protocols, and AI agent platforms.
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat&logo=solidity)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 
-## 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical)
 
-## 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
